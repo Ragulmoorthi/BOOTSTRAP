@@ -1,0 +1,13 @@
+.Cus-Profile .Cus-Name{
+    color: darkmagenta;
+}
+.Cus-Profile .Cus-Role{
+    text-transform: capitalize;
+    color: rgb(0, 255, 64);
+}
+.Cus-Profile .Cus-AboutMe{
+    background-color: rgb(255, 0, 195) ;
+}
+.Cus-Profile .Cus-AboutMe .card-text{
+    color: rgb(255, 187, 0);
+}
